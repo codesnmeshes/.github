@@ -18,7 +18,7 @@ Full applications you can download and use — developed in the open.
 
 | Project | Description | Platforms | Status |
 |---|---|---|---|
-| [Rewind](https://github.com/CodesnMeshes/Rewind) | All-in-one retro game emulator frontend built on libretro | Windows, macOS, Linux, Android, iOS | In development |
+| [Rewind](https://github.com/rewind-emulator/Rewind) | All-in-one retro game emulator frontend built on libretro | Windows, macOS, Linux, Android, iOS | In development |
 | [Xemu Manager](https://github.com/xemu-manager/xemu-manager) | Game library manager and launcher for the xemu Original Xbox emulator | Windows, Linux, Steam Deck, macOS | In development |
 
 ## 🎬 Breakdowns
